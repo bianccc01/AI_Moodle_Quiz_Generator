@@ -11,7 +11,7 @@ This project is an **automatic quiz generator** designed to create quizzes using
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/bianccc01/AI_Moodle_Quiz_Generator.git
    cd project-name
